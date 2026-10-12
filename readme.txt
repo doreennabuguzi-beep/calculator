@@ -1,1 +1,1 @@
-https://github.com/doreennabuguzi-beep/calculator.git
+https://doreennabuguzi-beep.github.io/calculator/
